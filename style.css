@@ -10,6 +10,7 @@
 .whatsapp,.talk{
     position: fixed;
     bottom: 20px;
+    z-index:999;
 }
 .whatsapp{
     left: 10px;
