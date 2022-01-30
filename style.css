@@ -132,7 +132,7 @@ width: 90%;
     
 }
 .certif img{
-    max-height: 50px;
+    max-height: 90px;
     margin: 0 10px;
 }
 .firstsecfoot{
@@ -443,7 +443,7 @@ white-space: pre-line;
         padding: 20px 0;
     }
     .certif img{
-        height: 100px;
+        height: 70px;
         margin: 0 10px;    
     }
 
